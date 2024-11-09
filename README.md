@@ -11,5 +11,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=moha-shiine&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mohashiine&label=Profile%20Views&color=9&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
